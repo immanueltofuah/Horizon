@@ -1,0 +1,40 @@
+
+
+strong {
+    color: grey;
+    background-color: white;
+}
+   
+ 
+.carousel-content {
+       
+     height: 600px;
+    }
+
+.main {
+    text-align: center;
+
+}
+
+.container{
+    background: rgb(0,0,128);
+    text-align: center;
+    width: max-content;
+    
+}
+
+.head {
+    color: rgb(173, 120, 20);
+}
+
+.sub {
+    color: rgb(202, 221, 33);
+}
+
+.para {
+    color: white;
+}
+
+.navbar-component {
+    background-color: white;
+    border-color: white;
